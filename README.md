@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrain&weight=600&duration=3000&pause=500&color=8BE9FD&center=true&width=435&lines=Heyyoo%2C+I'm+Tsaqif+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrain&weight=800&duration=3000&pause=500&color=8BE9FD&center=true&width=435&lines=Heyyoo%2C+I'm+Tsaqif+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <h3 align="center">A tech enthusiast that love develop and design</h3>
 
-# 💫 About Me:
+## 💫 About Me:
 I am a digital creator who believes that technology is far more beautiful when combined with visuals that tell a story.
 I’m currently learning on **3D website that uses Three.js and GSAP to create animated, interactive, and storytell websites**
 As a:
@@ -18,7 +18,9 @@ As a:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tsaaqifh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsqf.h29@gmail.com) 
 
-# 💻 Language and Tools:
+<hr>
+
+## 💻 Language and Tools:
   <p>Web Development:
     <br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,threejs,bun,nodejs,react,nextjs,postgres,prisma,postman" />
@@ -52,8 +54,8 @@ As a:
 
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Vocxss&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Vocxss's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Vocxss&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Vocxss's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Vocxss&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Vocxss's Most Used Languages" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vocxss&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>  
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Vocxss&theme=dracula&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Vocxss's Most Used Languages" />
 </div>
 
 <hr>
