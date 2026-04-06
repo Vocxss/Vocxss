@@ -1,4 +1,7 @@
-![8Bit _ Pixel _ Spring](https://github.com/user-attachments/assets/5d93cbd1-2857-43ed-8377-1e34058903ce)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d93cbd1-2857-43ed-8377-1e34058903ce" width="100%" alt="8Bit Pixel Spring">
+</p>
+
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrain&weight=800&duration=3000&pause=500&color=8BE9FD&center=true&width=435&lines=Heyyoo%2C+I'm+Tsaqif+%F0%9F%91%8B" alt="Typing SVG" /></a></h3>
 <h3 align="center">A tech enthusiast that love develop and design</h3>
 
