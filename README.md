@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d93cbd1-2857-43ed-8377-1e34058903ce" width="100%" alt="8Bit Pixel Spring">
+  <img src="https://github.com/user-attachments/assets/5d93cbd1-2857-43ed-8377-1e34058903ce" width="100%" height="80%" alt="8Bit Pixel Spring">
 </p>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrain&weight=800&duration=3000&pause=500&color=8BE9FD&center=true&width=435&lines=Heyyoo%2C+I'm+Tsaqif+%F0%9F%91%8B" alt="Typing SVG" /></a></h3>
@@ -7,7 +7,9 @@
 
 ## 💫 About Me:
 I am a digital creator who believes that technology is far more beautiful when combined with visuals that tell a story.
+<br>
 I’m currently learning on **3D website that uses Three.js and GSAP to create animated, interactive, and storytell websites**
+<br>
 As a:
 - 💻 Web Developer: I enjoy building clean, interactive and responsive websites. For me, coding is how I build a solid foundation for big ideas.
 - 🎨 Graphic Designer: Color, typography, and composition are my second language. I truly enjoy the process of transforming abstract concepts into visually appealing and communicative designs.
