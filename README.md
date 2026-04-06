@@ -1,3 +1,4 @@
+![8Bit _ Pixel _ Spring](https://github.com/user-attachments/assets/5d93cbd1-2857-43ed-8377-1e34058903ce)
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrain&weight=800&duration=3000&pause=500&color=8BE9FD&center=true&width=435&lines=Heyyoo%2C+I'm+Tsaqif+%F0%9F%91%8B" alt="Typing SVG" /></a></h3>
 <h3 align="center">A tech enthusiast that love develop and design</h3>
 
@@ -9,9 +10,11 @@ As a:
 - 🎨 Graphic Designer: Color, typography, and composition are my second language. I truly enjoy the process of transforming abstract concepts into visually appealing and communicative designs.
 - 🎬 Motion Design: This is where I give life into my designs. I love creating smooth, visually pleasing animations, because even the smallest details in motion can transform an ordinary experience into an extraordinary one!
 
-**<p align="center">
+<br>
+<p align="center">
 My philosophy: "Why be static when you can be dynamic? Why be boring when you can be inspiring?"
-  </p>**
+  </p>
+<br>
 
 <hr>
 
